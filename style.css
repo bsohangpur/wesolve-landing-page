@@ -260,7 +260,7 @@
   
   @media (min-width: 1024px) {
     .containers {
-      max-width: 1024px;
+      max-width: 1080px;
     }
     .containers .service-side-card {
       width: 40%;
